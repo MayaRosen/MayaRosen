@@ -64,7 +64,7 @@ Engineered a high-performance Python data pipeline using spatial mathematics to 
 *   **Repo:** [Geospatial Embeddings](https://github.com/MayaRosen/geospatial-embeddings)
 
 <p align="center">
-  <img width="35%" height="10%" alt="grabill54-globe-1992" src="https://github.com/user-attachments/assets/60821f65-cf8a-4a6c-96ce-5163a6670ab9" />
+  <img width="250" alt="world gif" src="https://github.com/user-attachments/assets/7a5ce719-3a27-4a44-a383-aa44c17f9ea6" />
 </p>
 
 ---
@@ -77,8 +77,9 @@ A hardware-software integration project featuring a robotics controller that fol
 *   **Repo:** [Robot Tracking System](https://github.com/MayaRosen/robot-tracking-system/wiki)
 
 <p align="center">
-  <img width="506" height="284" alt="Adobe Express - Video Project 6 (1)" src="https://github.com/user-attachments/assets/f25cde0d-b26f-4d41-8455-fd5566c04962" />
+  <img width="506" height="284" alt="robot gif" src="https://github.com/user-attachments/assets/2cc883c7-261a-489c-ac6e-91615b902d27" />
 </p>
+
 
 ---
 
